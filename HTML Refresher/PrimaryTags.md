@@ -14,7 +14,7 @@ These are the most important tags to know (note: there are at a lot more than th
 
 <div>
 
-<em>
+<em> - Adds emphasis, as in italicized. Use this over <i>
 
 <embed>
 
@@ -62,7 +62,7 @@ These are the most important tags to know (note: there are at a lot more than th
 
 <span>
 
-<strong>
+<strong> - Imparts strong meaning - it is bolded.
 
 <style>
 
